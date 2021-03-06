@@ -1,1 +1,1 @@
-# kings_county_property_values_analysis_predictive_model
+# This project will make a predictive model for property values in Kings County in Seattle, WA. Using a dataset of various property features in the area, I will use inferrential statistics to develop a predictive model that will be tested on a holdout dataset. 
