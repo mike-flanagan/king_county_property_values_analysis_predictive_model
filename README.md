@@ -9,8 +9,8 @@ To see if property sales in King County may be predicted using data from former 
 The testing dataset used includes multiple features for several thousand property sales in King County.
 
 ## Methods  
-My EDA uses descriptive and inferrential statistics to evaluate a test dataset, which is then used to develop a predictive model using linear regression.
-Tools used include Python, NumPy, Pandas, SciPy, StatsModels, and SciKit Learn.
+My methodology implements the CRISP-DM model for exploratory data analysis, cleaning, modeling, and evaluation. I use descriptive and inferrential statistics to evaluate a test dataset, including hypothesis testing with t-tests and analysis of variance. From my inferrences, I developed predictive models with use of polynomial features, categorical dummy variables, as well as several engineered features. Finally, I deployed and evaluated linear regression models using a filter method F-test to find K best, and wrapper method recursive feature elimination cross-validation.
+Tools used include Python, NumPy, Pandas, SciPy, StatsModels, and SciKit Learn. Visualizations were created with MatPlotLib and Seaborn.
 
 Author — Mike Flanagan  
 https://github.com/mike-flanagan/
