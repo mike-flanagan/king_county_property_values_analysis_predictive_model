@@ -15,6 +15,12 @@ The testing dataset used includes multiple features for several thousand propert
 My methodology implements the CRISP-DM model for exploratory data analysis, cleaning, modeling, and evaluation. I use descriptive and inferrential statistics to evaluate a test dataset, including hypothesis testing with t-tests and analysis of variance. From my inferrences, I developed predictive models with use of polynomial features, categorical dummy variables, as well as several engineered features. Finally, I deployed and evaluated linear regression models using a filter method F-test to find K best, and wrapper method recursive feature elimination cross-validation. Models were evaluated primarily on the RMSE of training and testing data in a train-test-split.  
   
 Tools used include Python, NumPy, Pandas, SciPy, StatsModels, and SciKit Learn. Visualizations were created with MatPlotLib and Seaborn.  
+  
+## Conclusion  
+After running and evaluating different models, I selected the model which returned the lowest Root Mean Square Error. The model state was saved using pickle and imported in to the holdout notebook, where it generated predictions for property sale prices, which were exported to the **data/** folder as a csv file. The predictions will be evaluated against the true sale price of all properties in the holdout dataset.  
+  
+## Further Actions  
+Once the holdout data predictions are evaluated, I would again step through the CRISP-DM process to see if the model could be improved. There is no one correct approach to evaluating and using the data, but to go further, it would be useful to improve my domain expertise in real estate, develop a deeper familiarity with the market in King County, and utilize the insights of others who may have a different creative approach. I have outlined other thoughts on how the model could be improved with more ideas on cleaning and feature engineering in the final notebook.  
 
 ## Index
 - **data/** — houses datasets used throughout project.  
