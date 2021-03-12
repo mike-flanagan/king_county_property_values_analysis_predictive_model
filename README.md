@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/61798935/110903839-101ed380-82d6-11eb-8761-bee40d2f4369.png)  
   
-<div align="center";>Photo by Luca Micheli on Unsplash  
+<div align="center";>Photo by Luca Micheli on Unsplash</div>  
   
 ## Overview  
 This project develops a predictive model for property values in King County in Seattle, WA. I used statistical analysis to develop a predictive model that is tested on a holdout dataset.
