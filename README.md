@@ -42,6 +42,7 @@ Once the holdout data predictions are evaluated, I would again step through the 
   
 <div align="center";>Author  
   <div align="center";>Mike Flanagan  
+    
 [GitHub](https://github.com/mike-flanagan/) | [LinkedIn](https://www.linkedin.com/in/mike-flanagan-data/)
   
   
