@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/61798935/110903839-101ed380-82d6-11eb-8761-bee40d2f4369.png)  
+![image](https://user-images.githubusercontent.com/61798935/110971972-7d0f8900-8329-11eb-92f4-1c9a6a4c4c62.png)  
   
 <div align="center";>Photo by Luca Micheli on Unsplash</div>  
   
